@@ -546,7 +546,7 @@ body {
 }
 
 
-@media (max-width: 360px) {
+@media (max-width: 361px) {
   .grid-second-content {
     margin-left: -3rem;
   }
